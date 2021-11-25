@@ -2,7 +2,6 @@
 
 ## Table of Content
   * [Overview](#overview)
-  * [Motivation](#motivation)
   * [Installation](#installation)
   * [Bug / Feature Request](#bug---feature-request)
   * [Future scope of project](#future-scope)
