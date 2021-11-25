@@ -11,6 +11,8 @@
 This Project Predict Whether the Booked Hotel will be Cancelled or Not.
 
 ![](Images/Image1.png)
+![](Images/Image2.png)
+
 
 ## Installation
 The Code is written in Python 3.6.10. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries.
