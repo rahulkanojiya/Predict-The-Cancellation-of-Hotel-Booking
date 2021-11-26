@@ -10,6 +10,7 @@
 ## Overview
 This Project Predict Whether the Booked Hotel will be Cancelled or Not.
 
+## Analysis Images
 ![](Images/Image1.png)
 ![](Images/Image2.png)
 
