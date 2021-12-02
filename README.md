@@ -32,4 +32,4 @@ If you find a bug, kindly open an [issue](https://github.com/rahulkanojiya/Fligh
 ## Future Scope
 
 * Use multiple Algorithms
-* Some App or Webpage Could be Created
+* Some App or Webpage Could be Created.
