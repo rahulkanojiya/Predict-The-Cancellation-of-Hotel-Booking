@@ -1,6 +1,6 @@
 # Predict-The-Cancellation-of-Hotel-Booking
 
-## Table of Content >
+## Table of Content :
   * [Overview](#overview)
   * [Installation](#installation)
   * [Bug / Feature Request](#bug---feature-request)
